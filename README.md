@@ -1,4 +1,5 @@
 PROJECT LINK https://seha-sehaty-wayak-copy-fbcd25e5.base44.app
+
 📌 Project Overview
 
 This project is a healthcare service web app prototype built with Base44, inspired by digital health platforms such as Sehhaty (Saudi Health Services) and SEHA (Abu Dhabi Health Services Company). These platforms provide users with digital access to healthcare services, appointment booking, medical records, consultations, and more.
